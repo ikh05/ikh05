@@ -36,8 +36,8 @@
 ---
 
 ## 🚀 Featured Projects
-- [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://ikhsan.site)  
-- [![Calculator Price](https://img.shields.io/badge/Calculator_Price-%23039BE5.svg?style=for-the-badge&logo=GoogleSheets&logoColor=white)](https://calcprice-ikhtoolkit.rf.gd/)  
+- 🔗 [My Portfolio Website](https://ikhsan.site)  
+- 🧮 [Calculator Price](https://calcprice-ikhtoolkit.rf.gd/)  
 
 
 ---
