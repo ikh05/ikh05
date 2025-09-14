@@ -34,16 +34,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikh05&layout=compact&theme=radical)
 
 
-## 📊 GitHub Stats
-![Ikhsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikh05&show_icons=true&theme=radical)
-
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ikh05&theme=radical)
-
-## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ikh05&theme=react-dark)
-
-
 ---
 
 ## 🚀 Featured Projects
