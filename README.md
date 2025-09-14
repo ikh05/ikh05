@@ -1,29 +1,27 @@
 # 👋 Hi, I'm Muhammad Ikhsan
 
-🚀 Web Developer | Open Source Enthusiast | Tech Explorer  
-
-💡 Suka ngulik **JavaScript**, **Serverless Functions**, dan **Automation**.  
-✨ Sedang membangun project pribadi & kontribusi open source.  
-
 ---
 
 ## 🌐 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikh05)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ikh05.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ikh05)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ikh05)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m_ikhsann05/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ikhsan0511)
 
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express, Serverless Functions  
-- **Tools:** Git, GitHub Actions, Netlify, Vercel  
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![Ikhsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikh05&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikh05&layout=compact&theme=radical)
 
