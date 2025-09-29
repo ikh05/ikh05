@@ -11,8 +11,8 @@
 
 
 ## 🌐 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m_ikhsann05/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ikhsan0511)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://ikhsan.site/go/me_instagram)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://ikhsan.site/go/me_facebook)
 
 
 ---
@@ -39,7 +39,7 @@
 
 ## 🚀 Featured Projects
 - 🔗 [My Portfolio Website](https://ikhsan.site)  
-- 🧮 [Calculator Price](https://calcprice-ikhtoolkit.rf.gd/)  
+- 🧮 [Calculator Price](https://ikhsan.site/go/calcprice)  
 
 
 ---
